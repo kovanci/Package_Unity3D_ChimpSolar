@@ -1,3 +1,5 @@
+[![Publish to NPM Registry](https://github.com/kovanci/Package_Unity3D_ChimpSolar/actions/workflows/publish_npm.yml/badge.svg)](https://github.com/kovanci/Package_Unity3D_ChimpSolar/actions/workflows/publish_npm.yml)
+
 ### Chimp Solar
 
 Unity3D package for precise sun position calculations and sunrise/sunset time estimations.
