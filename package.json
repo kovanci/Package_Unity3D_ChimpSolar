@@ -1,0 +1,31 @@
+{
+  "name": "com.kovanci.chimpsolar",
+  "version": "1.0.0",
+  "displayName": "Chimp Solar",
+  "description": "Precise sun position calculations and sunrise/sunset time estimations.",
+  "unity": "2022.3",
+  "unityRelease": "8f1",
+  "keywords": [
+    "solar",
+    "geographically accurate",
+    "sun position"
+  ],
+  "samples": [
+    {
+      "displayName": "Day-Night Cycle",
+      "description": "Day-Night Cycle",
+      "path": "Samples~/Day-Night Cycle"
+    },
+    {
+      "displayName": "Data Visualization",
+      "description": "Sunlight duration throughout the year.",
+      "path": "Samples~/Data Visualization"
+    }
+  ],
+  "author": {
+    "name": "Emre Kovanci",
+    "email": "kovanciemre@gmail.com",
+    "url": "https://emrekovanci.github.io"
+  },
+  "repository": "github:kovanci/Package_Unity3D_ChimpSolar"
+}
