@@ -6,6 +6,11 @@ Unity3D package for precise sun position calculations and sunrise/sunset time es
 
 Designed to facilitate the process of determining the sun's position and timing for game developers, visual effects artists, and other Unity3D users. Understanding the position of the sun in the sky can be a crucial factor when creating game worlds and atmospheric effects, and this package simplifies such tasks.
 
+- Includes 2 usage samples. Both samples can be imported via the `Package Manager`.
+  - [Day-Night Cycle](https://github.com/kovanci/Package_Unity3D_ChimpSolar/tree/master/Samples~/Day-Night%20Cycle)
+  - [Basic Data Visualization](https://github.com/kovanci/Package_Unity3D_ChimpSolar/tree/master/Samples~/Data%20Visualization)
+
+
 ### 📦 Dependencies
 - [Unity.Mathematics][1]
 
