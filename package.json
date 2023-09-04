@@ -1,6 +1,6 @@
 {
   "name": "com.kovanci.chimpsolar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Chimp Solar",
   "description": "Precise sun position calculations and sunrise/sunset time estimations.",
   "unity": "2022.3",
